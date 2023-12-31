@@ -6,13 +6,15 @@ Software Engineer
 
 I'm a third-grade student at Oguzhan Engineering University, majoring in cybersecurity. Currently, I'm diving deep into the world of web development, specializing in backend technologies. I'm passionate about problem-solving and love the intricacies of cybersecurity.
 
-🚀 \*\*Current Status:\*\* - Backend Developer at Intill Studio - Tech Stack: Node.js, Nest.js
+           🚀 \*\*Current Status:\*\* 
+- Backend Developer at Intill Studio - Tech Stack: Node.js, Nest.js
 
 🌐 \*\*On the Web Development Horizon:\*\* - Exploring new ways to enhance web security - Enthusiastically embracing challenges in backend development 
 
-🤖 \*\*Tech Enthusiast:\*\* - Proficient in Node.js and the Nest.js framework - Always up for a coding challenge and continuous learning 
+          🤖 \*\*Tech Enthusiast:\*\* - Proficient in Node.js and the Nest.js framework - Always up for a coding challenge and continuous learning 
 
-🔗 \*\*Connect with Me:\*\* - Let's connect and share insights on cybersecurity and backend development! Looking forward to connecting with fellow developers and cybersecurity enthusiasts! 💻✨
+          🔗 \*\*Connect with Me:\*\*
+ - Let's connect and share insights on cybersecurity and backend development! Looking forward to connecting with fellow developers and cybersecurity enthusiasts! 💻✨
 
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [20031212dawut@gmail.com](mailto:20031212dawut@gmail.com)
