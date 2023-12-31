@@ -8,7 +8,7 @@ I'm a third-grade student at Oguzhan Engineering University, majoring in cyberse
 
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [20031212dawut@gmail.com](mailto:20031212dawut@gmail.com)
-<a href="https://t.me/Davut_7">https://t.me/Davut_7</>
+<a href="https://t.me/Davut_7">t.me/Davut_7
 * 🧠  I'm learning Typescript, Nestjs, Docker, Kubernets, Microservices
 * 🤝  I'm open to collaborating on Everything related to backend
 * ⚡  Learning science
