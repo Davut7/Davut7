@@ -8,6 +8,7 @@ I'm a third-grade student at Oguzhan Engineering University, majoring in cyberse
 
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [20031212dawut@gmail.com](mailto:20031212dawut@gmail.com)
+<a href="https://t.me/Davut_7">https://t.me/Davut_7</>
 * 🧠  I'm learning Typescript, Nestjs, Docker, Kubernets, Microservices
 * 🤝  I'm open to collaborating on Everything related to backend
 * ⚡  Learning science
@@ -22,7 +23,7 @@ I'm a third-grade student at Oguzhan Engineering University, majoring in cyberse
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Davut7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://t.me/Davut_7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Davut7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </p>
 
 ### Badges
 
