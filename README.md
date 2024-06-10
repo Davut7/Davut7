@@ -7,7 +7,7 @@ Software Engineer
 I'm a third-grade student at Oguzhan Engineering University, majoring in cybersecurity. Currently, I'm diving deep into the world of web development, specializing in backend technologies. I'm passionate about problem-solving and love the intricacies of cybersecurity.
 
            🚀 \*\*Current Status:\*\* 
-- Backend Developer at Intill Studio - Tech Stack: Node.js, Nest.js
+- Backend Developer - Tech Stack: Node.js, Nest.js
 
      🌐 \*\*On the Web Development Horizon:\*\* 
 - Exploring new ways to enhance web security 
